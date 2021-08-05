@@ -7,17 +7,17 @@ _In daily life, we always go with that person who can complete the task in a sho
 ### Data structure
 * Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 * Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure.
-* Bullet list Data structure and data types are slightly different. Data structure is the collection of data types arranged in a specific order.
+* Data structure and data types are slightly different. Data structure is the collection of data types arranged in a specific order.
 ### Array
--In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
+* In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
 ### Stack
--In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.
+* In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.
 ### Queue
--Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.
+* Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.
 ### Linked list
-In linked list data structure, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
+* In linked list data structure, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
 ### Non-linear data structures
--Unlike linear data structures, elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.
--Non-linear data structures are further divided into graph and tree based data structures.
--Similar to a graph, a tree is also a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices.
+* Unlike linear data structures, elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.
+* Non-linear data structures are further divided into graph and tree based data structures.
+* Similar to a graph, a tree is also a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices.
 
