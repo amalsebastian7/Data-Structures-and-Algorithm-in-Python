@@ -5,9 +5,9 @@ _In daily life, we always go with that person who can complete the task in a sho
 # DAY 1 (Introduction)
 
 ### Data structure
-*Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
-*Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure.
-*Data structure and data types are slightly different. Data structure is the collection of data types arranged in a specific order.
+* Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+* Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure.
+* Bullet list Data structure and data types are slightly different. Data structure is the collection of data types arranged in a specific order.
 ### Array
 -In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
 ### Stack
