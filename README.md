@@ -21,3 +21,38 @@ _In daily life, we always go with that person who can complete the task in a sho
 * Non-linear data structures are further divided into graph and tree based data structures.
 * Similar to a graph, a tree is also a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices.
 
+
+# DAY2 
+
+_there are asymptotic notations , Big-O notation, Theta notation and Omega notation_
+
+## The efficiency of an algorithm depends on the amount of time, storage and other resources required to execute the algorithm. The efficiency is measured with the help of asymptotic notations.
+* An algorithm may not have the same performance for different types of inputs. With the increase in the input size, the performance will change.
+* The study of change in performance of the algorithm with the change in the order of the input size is defined as asymptotic analysis.
+* Asymptotic notations are the mathematical notations used to describe the running time of an algorithm when the input tends towards a particular value or a limiting value.
+    * For example: In bubble sort, when the input array is already sorted, the time taken by the algorithm is linear i.e. the best case.
+*But, when the input array is in reverse condition, the algorithm takes the maximum time (quadratic) to sort the elements i.e. the worst case.
+
+
+## There are mainly three asymptotic notations:
+
+-Big-O notation:Since it gives the worst-case running time of an algorithm, it is widely used to analyze an algorithm as we are always interested in the worst-case scenario.
+-Omega notation:Omega notation represents the lower bound of the running time of an algorithm. Thus, it provides the best case complexity of an algorithm.
+-Theta notation:Theta notation encloses the function from above and below. Since it represents the upper and the lower bound of the running time of an algorithm, it is used for analyzing the average-case complexity of an algorithm.
+
+## Master Theorem
+
+* A divide and conquer algorithm is a strategy of solving a large problem by
+1 breaking the problem into smaller sub-problems
+2 solving the sub-problems, and
+3combining them to get the desired output.
+4 To use the divide and conquer algorithm, recursion is used
+
+## How Divide and Conquer Algorithms Work?
+
+_Here are the steps involved:
+
+* Divide: Divide the given problem into sub-problems using recursion.
+* Conquer: Solve the smaller sub-problems recursively. If the subproblem is small enough, then solve it directly.
+* Combine: Combine the solutions of the sub-problems that are part of the recursive process to solve the actual problem.
+### The complexity of the divide and conquer algorithm is calculated using the master theorem.
